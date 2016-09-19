@@ -1,8 +1,22 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    autotest-standalone (4.5.11)
+    rspec-autotest (1.0.0)
+      rspec-core (>= 2.99.0.beta1, < 4.0.0)
+    rspec-core (3.5.3)
+      rspec-support (~> 3.5.0)
+    rspec-support (3.5.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  autotest-standalone
+  rspec-autotest
+
+RUBY VERSION
+   ruby 2.3.0p0
+
+BUNDLED WITH
+   1.13.1

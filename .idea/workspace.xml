@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4503f94-90e0-4d7a-ba5a-c0820d7e6a5e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.rspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/part1.rb" afterPath="$PROJECT_DIR$/lib/part1.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/part2.rb" afterPath="$PROJECT_DIR$/lib/part2.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/part3.rb" afterPath="$PROJECT_DIR$/lib/part3.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/part4.rb" afterPath="$PROJECT_DIR$/lib/part4.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/part5.rb" afterPath="$PROJECT_DIR$/lib/part5.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/part1_spec.rb" afterPath="$PROJECT_DIR$/spec/part1_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/part2_spec.rb" afterPath="$PROJECT_DIR$/spec/part2_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/part3_spec.rb" afterPath="$PROJECT_DIR$/spec/part3_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/part4_spec.rb" afterPath="$PROJECT_DIR$/spec/part4_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/part5_spec.rb" afterPath="$PROJECT_DIR$/spec/part5_spec.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
     </list>
     <ignored path="hw2fall16.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -73,8 +64,8 @@
       <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="45">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -307,12 +298,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1474317157173</updated>
-      <workItem from="1474317158595" duration="539000" />
+      <workItem from="1474317158595" duration="662000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="539000" />
+    <option name="totallyTimeSpent" value="662000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="720" extended-state="6" />
@@ -393,8 +384,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="45">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
           <folding />
         </state>
       </provider>
